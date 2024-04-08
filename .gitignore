@@ -1,5 +1,4 @@
-keras_model
 .vscode
 test
-pytorch_model/constancia_pytorch.ipynb
-pytorch_model/modelo_constancia_apple_stock_training_state.pth
+keras_model
+pytorch_model

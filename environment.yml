@@ -3,7 +3,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.8  # ou a versão específica que você precisa
+  - python=3.8
   - pip
   - pip:
     - streamlit
@@ -14,4 +14,4 @@ dependencies:
     - matplotlib
     - scikit-learn
   - conda:
-    - cudatoolkit=11.8  # Adicione a versão do CUDA compatível com a sua instalação do torch, se necessário
+    - cudatoolkit=11.8

@@ -1,10 +1,7 @@
 # Relatório Projeto Concorde
 
----
 
 ### Objetivo : Desenvolver um modelo preditivo para antecipar os preços das ações
-
----
 
 ### Processo
 
@@ -16,8 +13,6 @@
 
 
 # **Protótipo de nosso modelo**
-
----
 
 [**PROJETO CONCORDE - CONSTANCIA**](https://projeto-constancia-alpha-v1.streamlit.app/)
 
